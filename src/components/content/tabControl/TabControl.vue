@@ -47,7 +47,7 @@ export default {
   background-color:snow;
   position: sticky;
   top:44px;
-  z-index: 999;
+  z-index: 1;
 }
 
 .tab-control-item {
